@@ -26,13 +26,8 @@ p,l,u=lu(a)
 print(l)
 print(u)
 ~~~
-```
-
 ## Output:
-![alt text](image.png)
-
-
-
+![alt text](image-1.png)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
